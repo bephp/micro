@@ -11,5 +11,6 @@
     "require":{
         "lloydzhou/microtpl": "^1.0",
         "lloydzhou/activerecord": "^2.0"
-    }
+    },
+    "minimum-stability": "dev"
 }
