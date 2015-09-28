@@ -1,9 +1,9 @@
 {
-    "name": "lloydzhou/router",
-    "type": "library",
-    "description": "A barebones router for PHP. It matches urls and executes PHP functions.",
-    "keywords": ["router", "micro", "library"],
-    "homepage": "https://github.com/lloydzhou/router",
+    "name": "lloydzhou/micro",
+    "type": "framework",
+    "description": "A micro framework based on router, activerecord, and microtpl.",
+    "keywords": ["router", "micro", "activerecord", "microtpl"],
+    "homepage": "https://github.com/lloydzhou/micro",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0"
