@@ -13,5 +13,12 @@
         "lloydzhou/activerecord": "^2.0",
         "lloydzhou/router": "^0.2"
     },
-    "minimum-stability": "dev"
+    "script": {
+        "post-install-cmd":[
+            "php -r \"copy('vender/lloydzhou/micro/index.php', 'index.php')\"",
+            "php -r \"copy('vender/lloydzhou/micro/list.html', 'list.html')\"",
+            "php -r \"copy('vender/lloydzhou/micro/post.html', 'post.html')\"",
+            "php -S 0.0.0.0:9999 index.php"
+        ]
+    }
 }
