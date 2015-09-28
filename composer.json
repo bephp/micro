@@ -1,0 +1,15 @@
+{
+    "name": "lloydzhou/router",
+    "type": "library",
+    "description": "A barebones router for PHP. It matches urls and executes PHP functions.",
+    "keywords": ["router", "micro", "library"],
+    "homepage": "https://github.com/lloydzhou/router",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require":{
+        "lloydzhou/microtpl": "^1.0",
+        "lloydzhou/activerecord": "^2.0"
+    }
+}
