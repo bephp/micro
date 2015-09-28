@@ -10,7 +10,8 @@
     },
     "require":{
         "lloydzhou/microtpl": "^1.0",
-        "lloydzhou/activerecord": "^2.0"
+        "lloydzhou/activerecord": "^2.0",
+        "lloydzhou/router": "^0.2"
     },
     "minimum-stability": "dev"
 }
