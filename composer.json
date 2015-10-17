@@ -5,10 +5,9 @@
     "keywords": ["router", "micro", "activerecord", "microtpl"],
     "homepage": "https://github.com/lloydzhou/micro",
     "license": "MIT",
-    "require": {
-        "php": ">=5.3.0"
-    },
     "require":{
+        "php": ">=5.3.0",
+        "lloydzhou/utils": "^1.0",
         "lloydzhou/microtpl": "^1.0",
         "lloydzhou/activerecord": "^2.0",
         "lloydzhou/router": "^1.0"
