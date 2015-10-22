@@ -7,9 +7,9 @@
     "license": "MIT",
     "require":{
         "php": ">=5.3.0",
-        "lloydzhou/utils": "^1.0",
-        "lloydzhou/microtpl": "^1.0",
-        "lloydzhou/activerecord": "^2.0",
-        "lloydzhou/router": "^1.0"
+        "bephp/utils": "^1.0",
+        "bephp/microtpl": "^1.0",
+        "bephp/activerecord": "^2.0",
+        "bephp/router": "^1.0"
     }
 }
