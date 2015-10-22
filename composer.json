@@ -1,5 +1,5 @@
 {
-    "name": "lloydzhou/micro",
+    "name": "bephp/micro",
     "type": "framework",
     "description": "A micro framework based on router, activerecord, and microtpl.",
     "keywords": ["router", "micro", "activerecord", "microtpl"],
