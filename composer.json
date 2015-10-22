@@ -3,7 +3,7 @@
     "type": "framework",
     "description": "A micro framework based on router, activerecord, and microtpl.",
     "keywords": ["router", "micro", "activerecord", "microtpl"],
-    "homepage": "https://github.com/lloydzhou/micro",
+    "homepage": "https://github.com/bephp/micro",
     "license": "MIT",
     "require":{
         "php": ">=5.3.0",
